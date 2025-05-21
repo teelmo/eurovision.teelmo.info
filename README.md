@@ -1,6 +1,6 @@
 # eurovision.teelmo.info
 
-**Live demo** https://unctad-infovis.github.io/eurovision.teelmo.info/
+Eurovision drinking game destinations
 
 ## Rights of usage
 
