@@ -31,10 +31,10 @@ function App() {
     setCurrentData(data[currentId]);
   }, [data, currentId]);
 
-  const changeScreen = () => {
+  const changeScreen = (value) => {
     contentRef.current.style.opacity = 0;
     setTimeout(() => {
-      setCurrentId(currentId + 1);
+      setCurrentId(currentId + value);
       contentRef.current.style.opacity = 1;
       newRef.current.style.opacity = 1;
     }, 500);
@@ -84,9 +84,21 @@ function App() {
                 )
               }
             </div>
-            <div className="next_container">
+            <div className="navigation_container">
+              {
+                currentId > 0 && (
+                  <div className="button_container">
+                    <button className="previous" type="button" onClick={() => changeScreen(-1)}>
+                      <svg className="icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" />
+                      </svg>
+                      Previous
+                    </button>
+                  </div>
+                )
+              }
               <div className="button_container">
-                <button type="button" onClick={() => changeScreen()}>
+                <button className="next" type="button" onClick={() => changeScreen(1)}>
                   Next
                   <svg className="icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
