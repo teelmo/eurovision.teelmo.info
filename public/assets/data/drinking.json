@@ -1,0 +1,1374 @@
+[
+  {
+    "id": 28,
+    "occurred": "2025-05-17T22:43:10+00:00",
+    "type": "neighbours",
+    "name": "Top points to your neighbours!",
+    "description": "A country gives maximum marks to a neighbouring country.",
+    "penalty": "one-finger",
+    "participant": "Switzerland"
+  },
+  {
+    "id": 27,
+    "occurred": "2025-05-17T22:42:26+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Switzerland"
+  },
+  {
+    "id": 26,
+    "occurred": "2025-05-17T22:40:05+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Georgia"
+  },
+  {
+    "id": 25,
+    "occurred": "2025-05-17T22:39:12+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Iceland"
+  },
+  {
+    "id": 24,
+    "occurred": "2025-05-17T22:38:40+00:00",
+    "type": "neighbours",
+    "name": "Top points to your neighbours!",
+    "description": "A country gives maximum marks to a neighbouring country.",
+    "penalty": "one-finger",
+    "participant": "Lithuania"
+  },
+  {
+    "id": 23,
+    "occurred": "2025-05-17T22:38:37+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Lithuania"
+  },
+  {
+    "id": 22,
+    "occurred": "2025-05-17T22:37:30+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Albania"
+  },
+  {
+    "id": 21,
+    "occurred": "2025-05-17T22:35:57+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Belgium"
+  },
+  {
+    "id": 20,
+    "occurred": "2025-05-17T22:35:27+00:00",
+    "type": "neighbours",
+    "name": "Top points to your neighbours!",
+    "description": "A country gives maximum marks to a neighbouring country.",
+    "penalty": "one-finger",
+    "participant": "Germany"
+  },
+  {
+    "id": 19,
+    "occurred": "2025-05-17T22:33:42+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Finland"
+  },
+  {
+    "id": 18,
+    "occurred": "2025-05-17T22:32:51+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Spain"
+  },
+  {
+    "id": 17,
+    "occurred": "2025-05-17T22:31:34+00:00",
+    "type": "neighbours",
+    "name": "Top points to your neighbours!",
+    "description": "A country gives maximum marks to a neighbouring country.",
+    "penalty": "one-finger",
+    "participant": "Czech Republic"
+  },
+  {
+    "id": 16,
+    "occurred": "2025-05-17T22:30:32+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Serbia"
+  },
+  {
+    "id": 15,
+    "occurred": "2025-05-17T22:22:50+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Croatia"
+  },
+  {
+    "id": 14,
+    "occurred": "2025-05-17T22:20:55+00:00",
+    "type": "douze-points",
+    "name": "Douze Points",
+    "description": "The United Kingdom gets top marks from a country. Huh?",
+    "penalty": "down",
+    "participant": "Italy"
+  },
+  {
+    "id": 13,
+    "occurred": "2025-05-17T22:20:22+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Italy"
+  },
+  {
+    "id": 12,
+    "occurred": "2025-05-17T22:18:58+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Austria"
+  },
+  {
+    "id": 11,
+    "occurred": "2025-05-17T22:17:50+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Norway"
+  },
+  {
+    "id": 10,
+    "occurred": "2025-05-17T22:17:10+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Ukraine"
+  },
+  {
+    "id": 9,
+    "occurred": "2025-05-17T22:16:24+00:00",
+    "type": "neighbours",
+    "name": "Top points to your neighbours!",
+    "description": "A country gives maximum marks to a neighbouring country.",
+    "penalty": "one-finger",
+    "participant": "San Marino"
+  },
+  {
+    "id": 8,
+    "occurred": "2025-05-17T22:16:09+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "San Marino"
+  },
+  {
+    "id": 7,
+    "occurred": "2025-05-17T22:15:40+00:00",
+    "type": "neighbours",
+    "name": "Top points to your neighbours!",
+    "description": "A country gives maximum marks to a neighbouring country.",
+    "penalty": "one-finger",
+    "participant": "Luxembourg"
+  },
+  {
+    "id": 6,
+    "occurred": "2025-05-17T22:15:28+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Luxembourg"
+  },
+  {
+    "id": 5,
+    "occurred": "2025-05-17T22:14:14+00:00",
+    "type": "neighbours",
+    "name": "Top points to your neighbours!",
+    "description": "A country gives maximum marks to a neighbouring country.",
+    "penalty": "one-finger",
+    "participant": "Slovenia"
+  },
+  {
+    "id": 4,
+    "occurred": "2025-05-17T22:13:05+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "The Netherlands"
+  },
+  {
+    "id": 2,
+    "occurred": "2025-05-17T22:12:05+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Malta"
+  },
+  {
+    "id": 3,
+    "occurred": "2025-05-17T22:12:05+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Malta"
+  },
+  {
+    "id": 1,
+    "occurred": "2025-05-17T22:10:28+00:00",
+    "type": "milking-it",
+    "name": "Milking it",
+    "description": "The spokesperson for the country in question makes too big a meal out of their short time on screen.",
+    "penalty": "one-finger",
+    "participant": "Sweden"
+  },
+  {
+    "id": 204,
+    "occurred": "2025-05-17T21:24:08+00:00",
+    "type": "pyrotechnics",
+    "name": "Pyrotechnics",
+    "description": "Pyrotechnics fire at some point during the song.",
+    "penalty": "one-finger",
+    "performance_id": 439,
+    "performance": {
+      "song": "Zjerm",
+      "artist": "Shkodra Elektronike",
+      "country": "Albania"
+    }
+  },
+  {
+    "id": 211,
+    "occurred": "2025-05-17T21:23:18+00:00",
+    "type": "strobes",
+    "name": "Strobes",
+    "description": "Lights flashing quickly enough to erase how bad the song is from your brain.",
+    "penalty": "one-finger",
+    "performance_id": 439,
+    "performance": {
+      "song": "Zjerm",
+      "artist": "Shkodra Elektronike",
+      "country": "Albania"
+    }
+  },
+  {
+    "id": 205,
+    "occurred": "2025-05-17T21:22:40+00:00",
+    "type": "geometric-shapes",
+    "name": "Shapes",
+    "description": "Geometric shapes instead of a captivating performance.",
+    "penalty": "one-finger",
+    "performance_id": 439,
+    "performance": {
+      "song": "Zjerm",
+      "artist": "Shkodra Elektronike",
+      "country": "Albania"
+    }
+  },
+  {
+    "id": 203,
+    "occurred": "2025-05-17T21:21:56+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 439,
+    "performance": {
+      "song": "Zjerm",
+      "artist": "Shkodra Elektronike",
+      "country": "Albania"
+    }
+  },
+  {
+    "id": 202,
+    "occurred": "2025-05-17T21:18:33+00:00",
+    "type": "using-text",
+    "name": "Using text",
+    "description": "\"And when I get that feeling, I want textual healing\u2026\" Use your words!",
+    "penalty": "one-finger",
+    "performance_id": 438,
+    "performance": {
+      "song": "Tutta l'Italia",
+      "artist": "Gabry Ponte",
+      "country": "San Marino"
+    }
+  },
+  {
+    "id": 201,
+    "occurred": "2025-05-17T21:17:43+00:00",
+    "type": "pyrotechnics",
+    "name": "Pyrotechnics",
+    "description": "Pyrotechnics fire at some point during the song.",
+    "penalty": "one-finger",
+    "performance_id": 438,
+    "performance": {
+      "song": "Tutta l'Italia",
+      "artist": "Gabry Ponte",
+      "country": "San Marino"
+    }
+  },
+  {
+    "id": 198,
+    "occurred": "2025-05-17T21:15:30+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 437,
+    "performance": {
+      "song": "Maman",
+      "artist": "Louane",
+      "country": "France"
+    }
+  },
+  {
+    "id": 199,
+    "occurred": "2025-05-17T21:15:28+00:00",
+    "type": "wind-machine",
+    "name": "Wind machine",
+    "description": "WHOOSH!",
+    "penalty": "one-finger",
+    "performance_id": 437,
+    "performance": {
+      "song": "Maman",
+      "artist": "Louane",
+      "country": "France"
+    }
+  },
+  {
+    "id": 210,
+    "occurred": "2025-05-17T21:08:25+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 436,
+    "performance": {
+      "song": "Bara bada bastu",
+      "artist": "KAJ",
+      "country": "Sweden"
+    }
+  },
+  {
+    "id": 197,
+    "occurred": "2025-05-17T21:08:22+00:00",
+    "type": "key-change",
+    "name": "Key change",
+    "description": "A dramatic Westlife-esque key change in the middle of the song.",
+    "penalty": "one-finger",
+    "performance_id": 436,
+    "performance": {
+      "song": "Bara bada bastu",
+      "artist": "KAJ",
+      "country": "Sweden"
+    }
+  },
+  {
+    "id": 196,
+    "occurred": "2025-05-17T21:08:19+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 436,
+    "performance": {
+      "song": "Bara bada bastu",
+      "artist": "KAJ",
+      "country": "Sweden"
+    }
+  },
+  {
+    "id": 209,
+    "occurred": "2025-05-17T21:08:14+00:00",
+    "type": "using-text",
+    "name": "Using text",
+    "description": "\"And when I get that feeling, I want textual healing\u2026\" Use your words!",
+    "penalty": "one-finger",
+    "performance_id": 436,
+    "performance": {
+      "song": "Bara bada bastu",
+      "artist": "KAJ",
+      "country": "Sweden"
+    }
+  },
+  {
+    "id": 195,
+    "occurred": "2025-05-17T21:02:18+00:00",
+    "type": "wind-machine",
+    "name": "Wind machine",
+    "description": "WHOOSH!",
+    "penalty": "one-finger",
+    "performance_id": 435,
+    "performance": {
+      "song": "Hallucination",
+      "artist": "Sissal",
+      "country": "Denmark"
+    }
+  },
+  {
+    "id": 194,
+    "occurred": "2025-05-17T21:01:25+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 435,
+    "performance": {
+      "song": "Hallucination",
+      "artist": "Sissal",
+      "country": "Denmark"
+    }
+  },
+  {
+    "id": 193,
+    "occurred": "2025-05-17T21:00:42+00:00",
+    "type": "outfit-change",
+    "name": "Removing a part of the outfit",
+    "description": "\"And try to look as if you dont care less, but if you wanna see some more...\"",
+    "penalty": "two-fingers",
+    "performance_id": 435,
+    "performance": {
+      "song": "Hallucination",
+      "artist": "Sissal",
+      "country": "Denmark"
+    }
+  },
+  {
+    "id": 192,
+    "occurred": "2025-05-17T21:00:25+00:00",
+    "type": "strobes",
+    "name": "Strobes",
+    "description": "Lights flashing quickly enough to erase how bad the song is from your brain.",
+    "penalty": "one-finger",
+    "performance_id": 435,
+    "performance": {
+      "song": "Hallucination",
+      "artist": "Sissal",
+      "country": "Denmark"
+    }
+  },
+  {
+    "id": 191,
+    "occurred": "2025-05-17T20:56:39+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 434,
+    "performance": {
+      "song": "Deslocado",
+      "artist": "Napa",
+      "country": "Portugal"
+    }
+  },
+  {
+    "id": 208,
+    "occurred": "2025-05-17T20:54:20+00:00",
+    "type": "wind-machine",
+    "name": "Wind machine",
+    "description": "WHOOSH!",
+    "penalty": "one-finger",
+    "performance_id": 433,
+    "performance": {
+      "song": "Serving",
+      "artist": "Miriana Conte",
+      "country": "Malta"
+    }
+  },
+  {
+    "id": 185,
+    "occurred": "2025-05-17T20:54:03+00:00",
+    "type": "crazy-dancers",
+    "name": "Crazy dancing",
+    "description": "Only one person singing? Why not add some crazy dancers to distract the audience!",
+    "penalty": "one-finger",
+    "performance_id": 433,
+    "performance": {
+      "song": "Serving",
+      "artist": "Miriana Conte",
+      "country": "Malta"
+    }
+  },
+  {
+    "id": 186,
+    "occurred": "2025-05-17T20:52:44+00:00",
+    "type": "outfit-change",
+    "name": "Removing a part of the outfit",
+    "description": "\"And try to look as if you dont care less, but if you wanna see some more...\"",
+    "penalty": "two-fingers",
+    "performance_id": 433,
+    "performance": {
+      "song": "Serving",
+      "artist": "Miriana Conte",
+      "country": "Malta"
+    }
+  },
+  {
+    "id": 187,
+    "occurred": "2025-05-17T20:52:35+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 433,
+    "performance": {
+      "song": "Serving",
+      "artist": "Miriana Conte",
+      "country": "Malta"
+    }
+  },
+  {
+    "id": 189,
+    "occurred": "2025-05-17T20:52:27+00:00",
+    "type": "innuendo",
+    "name": "Innuendo",
+    "description": "Sorry, what did they just sing? What are they doing?",
+    "penalty": "one-finger",
+    "performance_id": 433,
+    "performance": {
+      "song": "Serving",
+      "artist": "Miriana Conte",
+      "country": "Malta"
+    }
+  },
+  {
+    "id": 188,
+    "occurred": "2025-05-17T20:52:20+00:00",
+    "type": "strobes",
+    "name": "Strobes",
+    "description": "Lights flashing quickly enough to erase how bad the song is from your brain.",
+    "penalty": "one-finger",
+    "performance_id": 433,
+    "performance": {
+      "song": "Serving",
+      "artist": "Miriana Conte",
+      "country": "Malta"
+    }
+  },
+  {
+    "id": 190,
+    "occurred": "2025-05-17T20:51:54+00:00",
+    "type": "using-text",
+    "name": "Using text",
+    "description": "\"And when I get that feeling, I want textual healing\u2026\" Use your words!",
+    "penalty": "one-finger",
+    "performance_id": 433,
+    "performance": {
+      "song": "Serving",
+      "artist": "Miriana Conte",
+      "country": "Malta"
+    }
+  },
+  {
+    "id": 184,
+    "occurred": "2025-05-17T20:51:28+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 433,
+    "performance": {
+      "song": "Serving",
+      "artist": "Miriana Conte",
+      "country": "Malta"
+    }
+  },
+  {
+    "id": 180,
+    "occurred": "2025-05-17T20:47:48+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 432,
+    "performance": {
+      "song": "Voyage",
+      "artist": "Zo\u00eb M\u00eb",
+      "country": "Switzerland"
+    }
+  },
+  {
+    "id": 181,
+    "occurred": "2025-05-17T20:47:26+00:00",
+    "type": "wind-machine",
+    "name": "Wind machine",
+    "description": "WHOOSH!",
+    "penalty": "one-finger",
+    "performance_id": 432,
+    "performance": {
+      "song": "Voyage",
+      "artist": "Zo\u00eb M\u00eb",
+      "country": "Switzerland"
+    }
+  },
+  {
+    "id": 179,
+    "occurred": "2025-05-17T20:44:43+00:00",
+    "type": "wind-machine",
+    "name": "Wind machine",
+    "description": "WHOOSH!",
+    "penalty": "one-finger",
+    "performance_id": 431,
+    "performance": {
+      "song": "Survivor",
+      "artist": "PARG",
+      "country": "Armenia"
+    }
+  },
+  {
+    "id": 178,
+    "occurred": "2025-05-17T20:44:31+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 431,
+    "performance": {
+      "song": "Survivor",
+      "artist": "PARG",
+      "country": "Armenia"
+    }
+  },
+  {
+    "id": 177,
+    "occurred": "2025-05-17T20:44:28+00:00",
+    "type": "pyrotechnics",
+    "name": "Pyrotechnics",
+    "description": "Pyrotechnics fire at some point during the song.",
+    "penalty": "one-finger",
+    "performance_id": 431,
+    "performance": {
+      "song": "Survivor",
+      "artist": "PARG",
+      "country": "Armenia"
+    }
+  },
+  {
+    "id": 176,
+    "occurred": "2025-05-17T20:43:01+00:00",
+    "type": "strobes",
+    "name": "Strobes",
+    "description": "Lights flashing quickly enough to erase how bad the song is from your brain.",
+    "penalty": "one-finger",
+    "performance_id": 431,
+    "performance": {
+      "song": "Survivor",
+      "artist": "PARG",
+      "country": "Armenia"
+    }
+  },
+  {
+    "id": 175,
+    "occurred": "2025-05-17T20:41:14+00:00",
+    "type": "outfit-change",
+    "name": "Removing a part of the outfit",
+    "description": "\"And try to look as if you dont care less, but if you wanna see some more...\"",
+    "penalty": "two-fingers",
+    "performance_id": 430,
+    "performance": {
+      "song": "Asteromata",
+      "artist": "Klavdia",
+      "country": "Greece"
+    }
+  },
+  {
+    "id": 173,
+    "occurred": "2025-05-17T20:33:26+00:00",
+    "type": "pyrotechnics",
+    "name": "Pyrotechnics",
+    "description": "Pyrotechnics fire at some point during the song.",
+    "penalty": "one-finger",
+    "performance_id": 429,
+    "performance": {
+      "song": "Baller",
+      "artist": "Abor & Tynna",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 172,
+    "occurred": "2025-05-17T20:32:57+00:00",
+    "type": "outfit-change",
+    "name": "Removing a part of the outfit",
+    "description": "\"And try to look as if you dont care less, but if you wanna see some more...\"",
+    "penalty": "two-fingers",
+    "performance_id": 429,
+    "performance": {
+      "song": "Baller",
+      "artist": "Abor & Tynna",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 174,
+    "occurred": "2025-05-17T20:32:24+00:00",
+    "type": "using-text",
+    "name": "Using text",
+    "description": "\"And when I get that feeling, I want textual healing\u2026\" Use your words!",
+    "penalty": "one-finger",
+    "performance_id": 429,
+    "performance": {
+      "song": "Baller",
+      "artist": "Abor & Tynna",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 170,
+    "occurred": "2025-05-17T20:31:59+00:00",
+    "type": "geometric-shapes",
+    "name": "Shapes",
+    "description": "Geometric shapes instead of a captivating performance.",
+    "penalty": "one-finger",
+    "performance_id": 429,
+    "performance": {
+      "song": "Baller",
+      "artist": "Abor & Tynna",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 171,
+    "occurred": "2025-05-17T20:30:58+00:00",
+    "type": "strobes",
+    "name": "Strobes",
+    "description": "Lights flashing quickly enough to erase how bad the song is from your brain.",
+    "penalty": "one-finger",
+    "performance_id": 429,
+    "performance": {
+      "song": "Baller",
+      "artist": "Abor & Tynna",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 169,
+    "occurred": "2025-05-17T20:30:53+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 429,
+    "performance": {
+      "song": "Baller",
+      "artist": "Abor & Tynna",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 168,
+    "occurred": "2025-05-17T20:28:31+00:00",
+    "type": "using-text",
+    "name": "Using text",
+    "description": "\"And when I get that feeling, I want textual healing\u2026\" Use your words!",
+    "penalty": "one-finger",
+    "performance_id": 428,
+    "performance": {
+      "song": "Gaja",
+      "artist": "Justyna Steczkowska",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 167,
+    "occurred": "2025-05-17T20:26:43+00:00",
+    "type": "pyrotechnics",
+    "name": "Pyrotechnics",
+    "description": "Pyrotechnics fire at some point during the song.",
+    "penalty": "one-finger",
+    "performance_id": 428,
+    "performance": {
+      "song": "Gaja",
+      "artist": "Justyna Steczkowska",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 166,
+    "occurred": "2025-05-17T20:26:17+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 428,
+    "performance": {
+      "song": "Gaja",
+      "artist": "Justyna Steczkowska",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 164,
+    "occurred": "2025-05-17T20:22:29+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 427,
+    "performance": {
+      "song": "Volevo essere un duro",
+      "artist": "Lucio Corsi",
+      "country": "Italy"
+    }
+  },
+  {
+    "id": 163,
+    "occurred": "2025-05-17T20:22:22+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 427,
+    "performance": {
+      "song": "Volevo essere un duro",
+      "artist": "Lucio Corsi",
+      "country": "Italy"
+    }
+  },
+  {
+    "id": 165,
+    "occurred": "2025-05-17T20:21:44+00:00",
+    "type": "using-text",
+    "name": "Using text",
+    "description": "\"And when I get that feeling, I want textual healing\u2026\" Use your words!",
+    "penalty": "one-finger",
+    "performance_id": 427,
+    "performance": {
+      "song": "Volevo essere un duro",
+      "artist": "Lucio Corsi",
+      "country": "Italy"
+    }
+  },
+  {
+    "id": 160,
+    "occurred": "2025-05-17T20:19:13+00:00",
+    "type": "pyrotechnics",
+    "name": "Pyrotechnics",
+    "description": "Pyrotechnics fire at some point during the song.",
+    "penalty": "one-finger",
+    "performance_id": 426,
+    "performance": {
+      "song": "Ich Komme",
+      "artist": "Erika Vikman",
+      "country": "Finland"
+    }
+  },
+  {
+    "id": 159,
+    "occurred": "2025-05-17T20:17:40+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 426,
+    "performance": {
+      "song": "Ich Komme",
+      "artist": "Erika Vikman",
+      "country": "Finland"
+    }
+  },
+  {
+    "id": 161,
+    "occurred": "2025-05-17T20:17:05+00:00",
+    "type": "innuendo",
+    "name": "Innuendo",
+    "description": "Sorry, what did they just sing? What are they doing?",
+    "penalty": "one-finger",
+    "performance_id": 426,
+    "performance": {
+      "song": "Ich Komme",
+      "artist": "Erika Vikman",
+      "country": "Finland"
+    }
+  },
+  {
+    "id": 158,
+    "occurred": "2025-05-17T20:16:59+00:00",
+    "type": "strobes",
+    "name": "Strobes",
+    "description": "Lights flashing quickly enough to erase how bad the song is from your brain.",
+    "penalty": "one-finger",
+    "performance_id": 426,
+    "performance": {
+      "song": "Ich Komme",
+      "artist": "Erika Vikman",
+      "country": "Finland"
+    }
+  },
+  {
+    "id": 162,
+    "occurred": "2025-05-17T20:16:28+00:00",
+    "type": "using-text",
+    "name": "Using text",
+    "description": "\"And when I get that feeling, I want textual healing\u2026\" Use your words!",
+    "penalty": "one-finger",
+    "performance_id": 426,
+    "performance": {
+      "song": "Ich Komme",
+      "artist": "Erika Vikman",
+      "country": "Finland"
+    }
+  },
+  {
+    "id": 46,
+    "occurred": "2025-05-17T20:13:17+00:00",
+    "type": "language-change",
+    "name": "Language change",
+    "description": "Switching from one language to another, that's just trying to curry favour with the judges.",
+    "penalty": "one-finger",
+    "performance_id": 425,
+    "performance": {
+      "song": "C'est la vie",
+      "artist": "Claude",
+      "country": "The Netherlands"
+    }
+  },
+  {
+    "id": 156,
+    "occurred": "2025-05-17T20:13:10+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 425,
+    "performance": {
+      "song": "C'est la vie",
+      "artist": "Claude",
+      "country": "The Netherlands"
+    }
+  },
+  {
+    "id": 155,
+    "occurred": "2025-05-17T20:10:32+00:00",
+    "type": "strobes",
+    "name": "Strobes",
+    "description": "Lights flashing quickly enough to erase how bad the song is from your brain.",
+    "penalty": "one-finger",
+    "performance_id": 424,
+    "performance": {
+      "song": "Bur man laimi",
+      "artist": "Tautumeitas",
+      "country": "Latvia"
+    }
+  },
+  {
+    "id": 153,
+    "occurred": "2025-05-17T20:09:24+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 424,
+    "performance": {
+      "song": "Bur man laimi",
+      "artist": "Tautumeitas",
+      "country": "Latvia"
+    }
+  },
+  {
+    "id": 152,
+    "occurred": "2025-05-17T20:05:19+00:00",
+    "type": "using-text",
+    "name": "Using text",
+    "description": "\"And when I get that feeling, I want textual healing\u2026\" Use your words!",
+    "penalty": "one-finger",
+    "performance_id": 423,
+    "performance": {
+      "song": "R\u00f3a",
+      "artist": "V\u00e6b",
+      "country": "Iceland"
+    }
+  },
+  {
+    "id": 151,
+    "occurred": "2025-05-17T20:05:11+00:00",
+    "type": "key-change",
+    "name": "Key change",
+    "description": "A dramatic Westlife-esque key change in the middle of the song.",
+    "penalty": "one-finger",
+    "performance_id": 423,
+    "performance": {
+      "song": "R\u00f3a",
+      "artist": "V\u00e6b",
+      "country": "Iceland"
+    }
+  },
+  {
+    "id": 150,
+    "occurred": "2025-05-17T20:04:51+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 423,
+    "performance": {
+      "song": "R\u00f3a",
+      "artist": "V\u00e6b",
+      "country": "Iceland"
+    }
+  },
+  {
+    "id": 207,
+    "occurred": "2025-05-17T20:03:32+00:00",
+    "type": "wind-machine",
+    "name": "Wind machine",
+    "description": "WHOOSH!",
+    "penalty": "one-finger",
+    "performance_id": 423,
+    "performance": {
+      "song": "R\u00f3a",
+      "artist": "V\u00e6b",
+      "country": "Iceland"
+    }
+  },
+  {
+    "id": 149,
+    "occurred": "2025-05-17T20:03:19+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 423,
+    "performance": {
+      "song": "R\u00f3a",
+      "artist": "V\u00e6b",
+      "country": "Iceland"
+    }
+  },
+  {
+    "id": 206,
+    "occurred": "2025-05-17T20:01:27+00:00",
+    "type": "strobes",
+    "name": "Strobes",
+    "description": "Lights flashing quickly enough to erase how bad the song is from your brain.",
+    "penalty": "one-finger",
+    "performance_id": 422,
+    "performance": {
+      "song": "Wasted Love",
+      "artist": "JJ",
+      "country": "Austria"
+    }
+  },
+  {
+    "id": 148,
+    "occurred": "2025-05-17T20:00:55+00:00",
+    "type": "wind-machine",
+    "name": "Wind machine",
+    "description": "WHOOSH!",
+    "penalty": "one-finger",
+    "performance_id": 422,
+    "performance": {
+      "song": "Wasted Love",
+      "artist": "JJ",
+      "country": "Austria"
+    }
+  },
+  {
+    "id": 147,
+    "occurred": "2025-05-17T19:59:55+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 422,
+    "performance": {
+      "song": "Wasted Love",
+      "artist": "JJ",
+      "country": "Austria"
+    }
+  },
+  {
+    "id": 146,
+    "occurred": "2025-05-17T19:55:34+00:00",
+    "type": "outfit-change",
+    "name": "Removing a part of the outfit",
+    "description": "\"And try to look as if you dont care less, but if you wanna see some more...\"",
+    "penalty": "two-fingers",
+    "performance_id": 421,
+    "performance": {
+      "song": "What the Hell Just Happened?",
+      "artist": "Remember Monday",
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "id": 145,
+    "occurred": "2025-05-17T19:55:17+00:00",
+    "type": "pyrotechnics",
+    "name": "Pyrotechnics",
+    "description": "Pyrotechnics fire at some point during the song.",
+    "penalty": "one-finger",
+    "performance_id": 421,
+    "performance": {
+      "song": "What the Hell Just Happened?",
+      "artist": "Remember Monday",
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "id": 144,
+    "occurred": "2025-05-17T19:54:54+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 421,
+    "performance": {
+      "song": "What the Hell Just Happened?",
+      "artist": "Remember Monday",
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "id": 142,
+    "occurred": "2025-05-17T19:47:13+00:00",
+    "type": "pyrotechnics",
+    "name": "Pyrotechnics",
+    "description": "Pyrotechnics fire at some point during the song.",
+    "penalty": "one-finger",
+    "performance_id": 420,
+    "performance": {
+      "song": "Bird of Pray",
+      "artist": "Ziferblat",
+      "country": "Ukraine"
+    }
+  },
+  {
+    "id": 45,
+    "occurred": "2025-05-17T19:46:59+00:00",
+    "type": "language-change",
+    "name": "Language change",
+    "description": "Switching from one language to another, that's just trying to curry favour with the judges.",
+    "penalty": "one-finger",
+    "performance_id": 420,
+    "performance": {
+      "song": "Bird of Pray",
+      "artist": "Ziferblat",
+      "country": "Ukraine"
+    }
+  },
+  {
+    "id": 140,
+    "occurred": "2025-05-17T19:45:57+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 420,
+    "performance": {
+      "song": "Bird of Pray",
+      "artist": "Ziferblat",
+      "country": "Ukraine"
+    }
+  },
+  {
+    "id": 141,
+    "occurred": "2025-05-17T19:45:40+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 420,
+    "performance": {
+      "song": "Bird of Pray",
+      "artist": "Ziferblat",
+      "country": "Ukraine"
+    }
+  },
+  {
+    "id": 139,
+    "occurred": "2025-05-17T19:43:49+00:00",
+    "type": "pyrotechnics",
+    "name": "Pyrotechnics",
+    "description": "Pyrotechnics fire at some point during the song.",
+    "penalty": "one-finger",
+    "performance_id": 419,
+    "performance": {
+      "song": "Esa Diva",
+      "artist": "Melody",
+      "country": "Spain"
+    }
+  },
+  {
+    "id": 138,
+    "occurred": "2025-05-17T19:43:15+00:00",
+    "type": "strobes",
+    "name": "Strobes",
+    "description": "Lights flashing quickly enough to erase how bad the song is from your brain.",
+    "penalty": "one-finger",
+    "performance_id": 419,
+    "performance": {
+      "song": "Esa Diva",
+      "artist": "Melody",
+      "country": "Spain"
+    }
+  },
+  {
+    "id": 137,
+    "occurred": "2025-05-17T19:42:04+00:00",
+    "type": "outfit-change",
+    "name": "Removing a part of the outfit",
+    "description": "\"And try to look as if you dont care less, but if you wanna see some more...\"",
+    "penalty": "two-fingers",
+    "performance_id": 419,
+    "performance": {
+      "song": "Esa Diva",
+      "artist": "Melody",
+      "country": "Spain"
+    }
+  },
+  {
+    "id": 136,
+    "occurred": "2025-05-17T19:39:11+00:00",
+    "type": "strobes",
+    "name": "Strobes",
+    "description": "Lights flashing quickly enough to erase how bad the song is from your brain.",
+    "penalty": "one-finger",
+    "performance_id": 418,
+    "performance": {
+      "song": "Tavo akys",
+      "artist": "Katarsis",
+      "country": "Lithuania"
+    }
+  },
+  {
+    "id": 135,
+    "occurred": "2025-05-17T19:38:26+00:00",
+    "type": "wind-machine",
+    "name": "Wind machine",
+    "description": "WHOOSH!",
+    "penalty": "one-finger",
+    "performance_id": 418,
+    "performance": {
+      "song": "Tavo akys",
+      "artist": "Katarsis",
+      "country": "Lithuania"
+    }
+  },
+  {
+    "id": 133,
+    "occurred": "2025-05-17T19:37:14+00:00",
+    "type": "smoke-machine",
+    "name": "Smoke machine",
+    "description": "\"We all came out to Montreux...\" Smoke on the water, er, stage.",
+    "penalty": "one-finger",
+    "performance_id": 418,
+    "performance": {
+      "song": "Tavo akys",
+      "artist": "Katarsis",
+      "country": "Lithuania"
+    }
+  },
+  {
+    "id": 43,
+    "occurred": "2025-05-17T19:29:45+00:00",
+    "type": "language-change",
+    "name": "Language change",
+    "description": "Switching from one language to another, that's just trying to curry favour with the judges.",
+    "penalty": "one-finger",
+    "performance_id": 416,
+    "performance": {
+      "song": "Espresso Macchiato",
+      "artist": "Tommy Cash",
+      "country": "Estonia"
+    }
+  },
+  {
+    "id": 131,
+    "occurred": "2025-05-17T19:24:56+00:00",
+    "type": "outfit-change",
+    "name": "Removing a part of the outfit",
+    "description": "\"And try to look as if you dont care less, but if you wanna see some more...\"",
+    "penalty": "two-fingers",
+    "performance_id": 415,
+    "performance": {
+      "song": "La poup\u00e9e monte le son",
+      "artist": "Laura Thorn",
+      "country": "Luxembourg"
+    }
+  },
+  {
+    "id": 130,
+    "occurred": "2025-05-17T19:23:29+00:00",
+    "type": "wearing-colour",
+    "name": "Wearing colour",
+    "description": "Black, beige, grey, and white are not the only colours they sell clothes in.",
+    "penalty": "one-finger",
+    "performance_id": 415,
+    "performance": {
+      "song": "La poup\u00e9e monte le son",
+      "artist": "Laura Thorn",
+      "country": "Luxembourg"
+    }
+  },
+  {
+    "id": 129,
+    "occurred": "2025-05-17T19:21:48+00:00",
+    "type": "crazy-dancers",
+    "name": "Crazy dancing",
+    "description": "Only one person singing? Why not add some crazy dancers to distract the audience!",
+    "penalty": "one-finger",
+    "performance_id": 414,
+    "performance": {
+      "song": "Lighter",
+      "artist": "Kyle Alessandro",
+      "country": "Norway"
+    }
+  },
+  {
+    "id": 128,
+    "occurred": "2025-05-17T19:20:49+00:00",
+    "type": "strobes",
+    "name": "Strobes",
+    "description": "Lights flashing quickly enough to erase how bad the song is from your brain.",
+    "penalty": "one-finger",
+    "performance_id": 414,
+    "performance": {
+      "song": "Lighter",
+      "artist": "Kyle Alessandro",
+      "country": "Norway"
+    }
+  },
+  {
+    "id": 127,
+    "occurred": "2025-05-17T19:19:14+00:00",
+    "type": "pyrotechnics",
+    "name": "Pyrotechnics",
+    "description": "Pyrotechnics fire at some point during the song.",
+    "penalty": "one-finger",
+    "performance_id": 414,
+    "performance": {
+      "song": "Lighter",
+      "artist": "Kyle Alessandro",
+      "country": "Norway"
+    }
+  }
+]
