@@ -9,6 +9,8 @@ function App() {
 
   const contentRef = useRef();
   const newRef = useRef();
+  const navRef = useRef();
+  const simulationButtonRef = useRef();
 
   useEffect(() => {
     // const data_file = 'https://eurovisiondrinking.com/2025/drinking.json';
@@ -43,11 +45,34 @@ function App() {
     }, 5000);
   };
 
+  const startSimulation = () => {
+    simulationButtonRef.current.textContent = 'Simulating';
+    simulationButtonRef.current.disabled = true;
+    setInterval(() => {
+      contentRef.current.style.opacity = 0;
+      setTimeout(() => {
+        setCurrentId(currentId + 1);
+        contentRef.current.style.opacity = 1;
+        newRef.current.style.opacity = 1;
+      }, 500);
+      setTimeout(() => {
+        newRef.current.style.opacity = 0;
+      }, 5000);
+    }, 10000);
+  };
+
   return (
     <div className="app">
       {
         currentData && (
           <div className="screen">
+            <div className="simulation_container">
+              <div className="button_container">
+                <button className="simulation" type="button" onClick={() => startSimulation()} ref={simulationButtonRef}>
+                  Start simulation
+                </button>
+              </div>
+            </div>
             <div className="content" ref={contentRef}>
               <div className="event_occurred">
                 <span className="new" ref={newRef}>New!</span>
@@ -84,7 +109,7 @@ function App() {
                 )
               }
             </div>
-            <div className="navigation_container">
+            <div className="navigation_container" ref={navRef}>
               {
                 currentId > 0 && (
                   <div className="button_container">
