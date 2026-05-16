@@ -7,7 +7,6 @@ const require = createRequire(import.meta.url);
 const { name } = require('./package.json');
 
 export default defineConfig(({ command }) => ({
-  base: `/${name}/`,
   build: {
     emptyOutDir: true,
     minify: 'terser',
