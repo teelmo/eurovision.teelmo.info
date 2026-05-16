@@ -8,7 +8,7 @@ Contact Teemo Tebest.
 
 ## How to build and develop
 
-This is a Webpack + React project.
+This is a Vite + React project.
 
 * `npm install`
 * `npm start`

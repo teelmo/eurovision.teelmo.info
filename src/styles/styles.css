@@ -1,28 +1,22 @@
-@import 'colors.less';
+/*@import 'colors.css';*/
+@import 'basics.css';
 
-html, body {
+html,
+body {
   padding: 0;
   margin: 0;
 }
 #app-root .app {
-  font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   margin: 0;
   min-height: 100vh;
   width: 100%;
   position: relative;
   &:before {
-    content: "";
+    content: '';
     position: absolute;
     inset: 0;
-    background: linear-gradient(
-      to bottom,
-      #e40303 16.66%,
-      #ff8c00 16.66% 33.33%,
-      #ffed00 33.33% 50%,
-      #008026 50% 66.66%,
-      #24408e 66.66% 83.33%,
-      #732982 83.33%
-    );
+    background: linear-gradient(to bottom, #e40303 16.66%, #ff8c00 16.66% 33.33%, #ffed00 33.33% 50%, #008026 50% 66.66%, #24408e 66.66% 83.33%, #732982 83.33%);
     opacity: 0.6; /* Adjust this for intensity */
     z-index: -1;
   }
@@ -35,7 +29,10 @@ html, body {
     .content {
       background-blend-mode: darken;
       background-color: #fff;
-      box-shadow: 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff;
+      box-shadow:
+        0 0 10px #fff,
+        0 0 10px #fff,
+        0 0 10px #fff;
       box-sizing: border-box;
       display: flex;
       flex-direction: column;
@@ -115,10 +112,12 @@ html, body {
           font-weight: 500;
           gap: 0.5em;
           padding: 0.75em 1.5em;
-          transition: background-color 0.2s ease, transform 0.2s ease;
+          transition:
+            background-color 0.2s ease,
+            transform 0.2s ease;
           &:disabled {
             background-color: #777;
-          } 
+          }
           .icon {
             height: 1.2em;
             stroke: white;
@@ -141,5 +140,3 @@ html, body {
     }
   }
 }
-
-@import 'basics.less';
