@@ -6,8 +6,7 @@ const POLL_INTERVAL = 10_000;
 const App = () => {
   const [data, setData] = useState([]);
   const [currentId, setCurrentId] = useState(0);
-  const lastLengthRef = useRef(0);
-
+  const lastIdRef = useRef(null);
   const contentRef = useRef();
   const newRef = useRef();
   const navRef = useRef();
@@ -27,9 +26,10 @@ const App = () => {
       try {
         const res = await fetch('/api/2026/drinking.json');
         if (!res.ok) throw new Error(res.statusText);
-        const fresh = (await res.json()).reverse();
-        if (fresh.length !== lastLengthRef.current) {
-          lastLengthRef.current = fresh.length;
+        const fresh = await res.json();
+
+        if (fresh[0]?.id !== lastIdRef.current) {
+          lastIdRef.current = fresh[0]?.id ?? null;
           setData(fresh);
           setCurrentId(0);
           flashNew();
@@ -45,10 +45,12 @@ const App = () => {
   }, [flashNew]);
 
   const changeScreen = value => {
+    const next = currentId + value;
+    if (next < 0 || next >= data.length) return;
     if (!contentRef.current) return;
     contentRef.current.style.opacity = 0;
     setTimeout(() => {
-      setCurrentId(prev => prev + value);
+      setCurrentId(next);
       contentRef.current.style.opacity = 1;
       flashNew();
     }, 500);
@@ -94,15 +96,17 @@ const App = () => {
                 </button>
               </div>
             )}
-            <div className="button_container">
-              <button className="next" type="button" onClick={() => changeScreen(1)}>
-                Next
-                <svg className="icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <title>Next</title>
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
-                </svg>
-              </button>
-            </div>
+            {currentId < data.length - 1 && (
+              <div className="button_container">
+                <button className="next" type="button" onClick={() => changeScreen(1)}>
+                  Next
+                  <svg className="icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <title>Next</title>
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+              </div>
+            )}
           </div>
         </div>
       )}
