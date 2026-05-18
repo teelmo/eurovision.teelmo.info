@@ -24,7 +24,9 @@ const App = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const res = await fetch('/api/2026/drinking.json');
+        // Do this on the server in folder /api/2026/
+        // while true; do curl -s https://eurovisiondrinking.com/2027/drinking.json -o ./drinking.json; sleep 10; done
+        const res = await fetch('/api/2027/drinking.json');
         if (!res.ok) throw new Error(res.statusText);
         const fresh = await res.json();
 
